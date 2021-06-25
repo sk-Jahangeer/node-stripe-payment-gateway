@@ -1,0 +1,15 @@
+{
+  "name": "node-stripe-payment-gateway",
+  "version": "1.0.0",
+  "description": "Implementing stripe payment gateway in node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "jahangeer",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "stripe": "^8.156.0"
+  }
+}
